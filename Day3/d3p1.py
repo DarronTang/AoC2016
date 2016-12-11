@@ -1,5 +1,3 @@
-import re
-
 inputFile = open("input.txt","r")
 
 input = inputFile.read().strip().split('\n')
